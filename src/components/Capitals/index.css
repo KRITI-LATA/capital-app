@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 'Roboto';
+}
+.container-card {
+  background-color: #f8fafc;
+  padding: 40px;
+  border-radius: 10px;
+}
+.heading-text {
+  color: #000000;
+  font-size: 30px;
+  font-weight: 500;
+}
+.option-card {
+  display: flex;
+  flex-direction: row;
+}
+.capital-select {
+  margin-right: 20px;
+  width: 200px;
+  font-weight: bold;
+}
+.para-text {
+  color: #1e293b;
+}
+.country {
+  font-size: 30px;
+  color: #000000;
+}
